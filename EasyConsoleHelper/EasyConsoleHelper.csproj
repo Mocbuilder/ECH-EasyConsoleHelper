@@ -12,6 +12,7 @@
 	<RepositoryUrl>https://github.com/Mocbuilder/ECH-EasyConsoleHelper</RepositoryUrl>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
 	<Description>EasyConsoleHelper includes some simple QoL-Functions to help with creating console applications. Currently there are two functions, more will be added later.</Description>
+	<Version>1.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
