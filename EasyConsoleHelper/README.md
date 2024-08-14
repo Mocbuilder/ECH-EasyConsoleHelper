@@ -5,7 +5,7 @@ EasyConsoleHelper includes some simple QoL-Functions to help with creating conso
 ## Functions
 
 ### ECH.ColorPrint()
-ColorPrint() takes a string and a ConsoleColor as parameters and prints the text in the given color while returning to the original ForegroundColor from befor execution.
+ColorPrint() takes a string and a ConsoleColor as parameters and prints the text in the given color while returning to the original ForegroundColor from before execution.
 
 Example Code:
 
@@ -16,7 +16,7 @@ Console.WriteLine("This will be in white again.");
 ```
 
 ### ECH.ErrorPrint()
-ColorPrint() takes a string as parameter and prints the text in red as an error while returning to the original ForegroundColor from befor execution.
+ErrorPrint() takes a string as parameter and prints the text in red as an error while returning to the original ForegroundColor from before execution.
 
 Example Code:
 
